@@ -1,0 +1,21 @@
+.bullet-list-items{
+    list-style: none;
+    color: white;
+    font-size: 50px;
+}
+
+.bullet-list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: red;
+    margin: 0px 300px 0px 300px;
+    padding: 100px;
+}
+
+.title{
+    display: block;
+    text-align: center;
+    border: solid red 2px;
+    margin: 0 300px;
+}
